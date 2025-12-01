@@ -9,8 +9,6 @@ import warnings
 
 warnings.filterwarnings("ignore")
 # ---------------------------------------------------------------------------------------------------------------------
-# Tất cả các thư viện liên quan cần cài để chạy được chương trình một cách mượt mà đã được nén trong file Setup.exe
-# Thầy có thể dùng file setup.exe để cài đặt và mở file DoAnPython.py để kiểm tra code ạ.
 # Chúng em xin cảm ơn thầy đã chấm bài của chúng em! Chúc thầy sức khỏe và thành công!
 # ---------------------------------------------------------------------------------------------------------------------
 def connect_db():
